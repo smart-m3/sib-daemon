@@ -1,0 +1,11 @@
+Source: sibd
+Section: user/Multimedia
+Priority: optional
+Maintainer: Hannu Laine <hannu.e.laine@nokia.com>
+Build-Depends: debhelper (>= 4.0.0), libwhiteboard (= 2.0-beta1), libwhiteboard-dev (= 2.0-beta1)
+Standards-Version: 3.6.0
+
+Package: sibd
+Architecture: any
+Depends: libwhiteboard (= 2.0-beta1)
+Description: SIB daemon.

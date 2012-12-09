@@ -1,0 +1,4 @@
+usr/bin/*
+usr/share/dbus-1/services/*
+usr/lib/python2.5/site-packages/*
+usr/lib/python2.6/dist-packages/*
